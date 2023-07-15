@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.fotos {
+    width: 300px;
+}
